@@ -1,0 +1,6 @@
+plugin:
+  name: "Darksky"
+  author: "Florent Boutin"
+  description: "Module de météo, fournis par le web service DarkSky"
+  uid: "DarkSky"
+  migration: true
